@@ -126,7 +126,7 @@ export default function App() {
                 {/* Placeholder for your photo */}
                 <img
                   // src="../src/assets/photo1.png"
-                  src="../src/assets/croped.png"
+                  src="/assets/croped.png"
                   alt="Mohamed Essam Elramah"
                   className="w-full h-full object-cover"
                 />
